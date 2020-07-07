@@ -1,0 +1,19 @@
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope"><soap:Body><nfeResultMsg xmlns="http://www.portalfiscal.inf.br/nfe/wsdl/NFeAutorizacao4"><retEnviNFe xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <tpAmb>2</tpAmb>
+  <verAplic>14.3.8</verAplic>
+  <cStat>104</cStat>
+  <xMotivo>Lote processado</xMotivo>
+  <cUF>31</cUF>
+  <dhRecbto>2019-06-18T15:55:12-03:00</dhRecbto>
+  <protNFe versao="4.00">
+    <infProt>
+      <tpAmb>2</tpAmb>
+      <verAplic>14.3.8</verAplic>
+      <chNFe>31190611399702000106550010000000121185438829</chNFe>
+      <dhRecbto>2019-06-18T15:55:11-03:00</dhRecbto>
+      <digVal>kyh+ZblNGFICBUQkc90/UpOU6is=</digVal>
+      <cStat>539</cStat>
+      <xMotivo>Rejeicao: Duplicidade de NF-e, com diferenca na Chave de Acesso [31190611399702000106550010000000121222801170]</xMotivo>
+    </infProt>
+  </protNFe>
+</retEnviNFe></nfeResultMsg></soap:Body></soap:Envelope>
